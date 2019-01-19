@@ -1,11 +1,5 @@
 # About
-Repository created for the Typescript with node and Express.Js article in Medium.
-
-Minimal boilerplate to start a Express.js project using TypeScript.
-
-For more information check out the article:
-
-[https://medium.com/@gardikoury/eb6bc73edd5d](https://medium.com/@gardikoury/eb6bc73edd5d)
+Today, we are going to use TypeScript Express.js and TypeORM to create an enterprise level Rest API with JWT authentication and role based authorization. The objective is to create a repository that you can use as bases for your real life projects.
 
 ## Quick Start
 To install this dependency use:
