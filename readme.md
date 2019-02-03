@@ -1,17 +1,7 @@
-# About
-Today, we are going to use TypeScript Express.js and TypeORM to create an enterprise level Rest API with JWT authentication and role based authorization. The objective is to create a repository that you can use as bases for your real life projects.
+# Awesome Project Build with TypeORM
 
-## Quick Start
-To install this dependency use:
+Steps to run this project:
 
-```
-npm install
-```
-To run ther server in development mode:
-```
-npm run dev
-```
-To run ther server in development mode:
-```
-npm run prod
-```
+1. Run `npm i` command
+2. Setup database settings inside `ormconfig.json` file
+3. Run `npm start` command
