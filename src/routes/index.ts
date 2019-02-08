@@ -2,9 +2,9 @@ import { Router, Request, Response } from "express";
 import auth from "./auth";
 import user from "./user";
 
-const router = Router();
+const routes = Router();
 
-router.use("/auth", auth);
-router.use("/user", user);
+routes.use("/auth", auth);
+routes.use("/user", user);
 
-module.exports = router;
+export default routes;
