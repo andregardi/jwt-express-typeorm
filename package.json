@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "express": "^4.15.4",
     "helmet": "^3.15.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "reflect-metadata": "^0.1.10",
     "sqlite3": "^4.0.3",
     "ts-node-dev": "^1.0.0-pre.32",
